@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/fk/esp/esp32_led_strip/build/CMakeFiles/bootloader
+/Users/fk/esp/esp32_led_strip/build/CMakeFiles/bootloader.rule
+/Users/fk/esp/esp32_led_strip/build/CMakeFiles/bootloader-complete.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/fk/esp/esp32_led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
